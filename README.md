@@ -1,5 +1,3 @@
 # certificate_uploader
-android app
-firebase used app 
-authentiation based using firebase authentiation.
-admin can acess the uploaded photos 
+Android app using firebase implemented authentication ,realtime database and firebase storage.
+admin get acess to all uploaded photos ,download and can delete it. 
